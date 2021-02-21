@@ -19,3 +19,5 @@ The Budget Tracker is an application that allows users to track and store deposi
 [7. Authors](#Authors)<br>
 
 ## Installation
+
+![Demo of Application](assets/budget-tracker.gif)
