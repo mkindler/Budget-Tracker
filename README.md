@@ -20,4 +20,6 @@ The Budget Tracker is an application that allows users to track and store deposi
 
 ## Installation
 
-![Demo of Application](../assets/budget-tracker.gif)
+This application is deployed and hosted on [Heroku](https://frozen-headland-68006.herokuapp.com/). No installation is required for use unless testing locally. If used only on your local machines, follow and install the required dependencies.
+
+![Demo of Application](public/assets/budget-tracker.gif)
